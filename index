@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Vote Widget Test</title>
+</head>
+<body>
+  <h1>투표 위젯 테스트 페이지</h1>
+  <p>이 페이지는 GitHub Pages용 테스트입니다.</p>
+  <script src="vote.js"></script>
+</body>
+</html>
